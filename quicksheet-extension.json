@@ -1,0 +1,10 @@
+{
+  "name": "quicksheet-docker",
+  "version": "1.0.0",
+  "description": "Docker container monitoring for QuickSheet — see running containers, resource usage, and images on your desktop wallpaper",
+  "author": "cemheren",
+  "prefix": "docker:",
+  "repository": "https://github.com/cemheren/quicksheet-docker",
+  "runtime": "dotnet",
+  "entrypoint": "QuickSheetDocker.dll"
+}
